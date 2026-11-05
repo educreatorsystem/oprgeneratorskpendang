@@ -1,0 +1,20 @@
+{
+  "name": "SMART OPR GENERATOR — SEKOLAH KEBANGSAAN PENDANG",
+  "short_name": "OPR SK Pendang",
+  "description": "Sistem penjana OPR dan kalendar program SEKOLAH KEBANGSAAN PENDANG",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0a3651",
+  "lang": "ms",
+  "icons": [
+    {
+      "src": "https://iili.io/nsVg73B.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
